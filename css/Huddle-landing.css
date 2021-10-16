@@ -128,7 +128,8 @@ a {
 .right--btn {
   font-size: var(--fs-h2);
   padding: 0.8em 5em;
-  border: var(--clr-txt);
+  border: 0;
+  background-color: var(--clr-txt);
   border-radius: 40px;
   font-weight: var(--fw-bold);
   color: var(--clr-violet);
